@@ -78,6 +78,7 @@ public class TestArray {
         for (int number: anArray){
             System.out.print(number + " ");
         }
+        // This is to create a new line for the next output to be printed.
         System.out.println();
 
         // Task 4
