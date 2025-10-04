@@ -6,3 +6,6 @@ Tasks:
 3. Sort an array in ascending and descending order
 4. Linear search
 5. Binary search
+
+
+The actual task is called TestArray.java
